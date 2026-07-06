@@ -158,11 +158,14 @@ We thank the authors for making their work publicly available.
 If you find R3DP useful in your research, please consider citing:
 
 ```bibtex
-@article{r3dp2025,
-  title={R3DP: Real-Time 3D-Aware Policy for Embodied Manipulation},
-  author={Zhang, Yuhao and Dong, Wanxi and Shi, Yue and Liang, Yi and Gao, Jingnan and Yang, Qiaochu and Lyu, Yaxing and Liang, Zhixuan and Liu, Yibin and Xu, Congsheng and Guo, Xianda and Sui, Wei and Jin, Yaohui and Yang, Xiaokang and Xu, Yanyan and Mu, Yao},
-  journal={arXiv preprint},
-  year={2025}
+@misc{zhang2026r3dprealtime3dawarepolicy,
+      title={R3DP: Real-Time 3D-Aware Policy for Embodied Manipulation}, 
+      author={Yuhao Zhang and Wanxi Dong and Yue Shi and Yi Liang and Jingnan Gao and Qiaochu Yang and Yaxing Lyu and Zhixuan Liang and Yibin Liu and Congsheng Xu and Xianda Guo and Wei Sui and Yaohui Jin and Xiaokang Yang and Yanyan Xu and Yao Mu},
+      year={2026},
+      eprint={2603.14498},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.14498}, 
 }
 ```
 
