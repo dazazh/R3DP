@@ -104,8 +104,8 @@ pip install wandb hydra-core==1.2.0 diffusers==0.11.1 einops accelerate timm
 
 | Weight | Source | Place at |
 |---|---|---|
-| TFPNet | https://dazazh.github.io/r3dp-project-page/ | `policy/R3DP/tvggt/checkpoints/` |
-| R3DP | https://dazazh.github.io/r3dp-project-page/ | `policy/R3DP/checkpoints/` |
+| TFPNet | https://huggingface.co/wxdong/R3DP | `policy/R3DP/tvggt/checkpoints/` |
+| R3DP | https://huggingface.co/wxdong/R3DP | `policy/R3DP/checkpoints/` |
 
 
 ## 🚀 Usage
